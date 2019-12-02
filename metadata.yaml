@@ -1,5 +1,8 @@
 _repo: Souvenirs-d-un-musicien-precedes-de-notes-biographiques-ecrites-par-lui-meme_60806
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60806-h/images/cover.jpg
 creator:
   author:
     agent_name: Adam, Adolphe
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Adolphe_Adam
     - https://fr.wikipedia.org/wiki/Adolphe_Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60806#Souvenirs-d-un-musicien-precedes-de-notes-biographiques-ecrites-par-lui-meme
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
