@@ -1,0 +1,34 @@
+_repo: Souvenirs-d-un-musicien-precedes-de-notes-biographiques-ecrites-par-lui-meme_60806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adam, Adolphe
+    aliases:
+    - Adam, Adolphe Charles
+    - Adam, A. (Adolphe)
+    - Adam, Adolph
+    birthdate: 1803
+    deathdate: 1856
+    gutenberg_agent_id: '40268'
+    url: http://www.gutenberg.org/2009/agents/40268
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Adolphe_Adam
+    - https://fr.wikipedia.org/wiki/Adolphe_Adam
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2019-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60806'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Souvenirs d''un musicien
+
+  précédés de notes biographiques écrites par lui même'
+url: http://www.gutenberg.org/ebooks/60806
